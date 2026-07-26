@@ -1,0 +1,7 @@
+[
+    {
+        "ioc": "185.244.25.3",
+        "log_line": "2024-07-26 Connection to 185.244.25.3 allowed",
+        "alert": "IOC match found in log"
+    }
+]
